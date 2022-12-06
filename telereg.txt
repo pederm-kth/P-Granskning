@@ -1,0 +1,4 @@
+Madsen;Peder;666;hpedermadsen@protonmail.com;Tre Liljor 2A
+Semla;Simon;079-87654321;simsem@kth.se;Testvägen 4, Huddinge
+Aaronsson;Matthew;068-45452323;aar@ggl.com;strandvägen 1, Sthlm
+Mbeki;Lesedi;070-12345678;lesedi23@gmail.com;Klutvägen 3, Bromma
